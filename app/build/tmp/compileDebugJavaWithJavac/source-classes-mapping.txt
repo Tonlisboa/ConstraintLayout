@@ -1,0 +1,4 @@
+br/edu/ifsp/scl/sdm/pa1/constraintlayout/BuildConfig.java
+ br.edu.ifsp.scl.sdm.pa1.constraintlayout.BuildConfig
+br/edu/ifsp/scl/sdm/pa1/constraintlayout/MainActivity.java
+ br.edu.ifsp.scl.sdm.pa1.constraintlayout.MainActivity
